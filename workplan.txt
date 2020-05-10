@@ -1,0 +1,33 @@
+Project name: Grade predicting system
+
+Team members:Abilkasym Akerke, Omarbekova Aruzhan, Zhailau Nagima, Kamar Begaiym
+
+Abilkasym Akerke: Project manager
+	-Develop a project plan
+	-Construct project workflow
+	-Assign tasks to project team members
+	 -All responsibilities of Project manager
+	-Upload abstract,thesis to Latex
+	
+Omarbekova Aruzhan: Data Analysis
+	-Providing with ideas and way
+	-Finding any kind of errors
+	-Managing reports
+	-Monitoring progress
+	-Predicting last decisions 
+	-Planning,organizing team meetings, advisor meetings
+	
+Zhailau Nagima: Data Analysis, Data Collection,Data Visualization
+	-Collected data from university database
+	-Identified, analyzed, and interpreted trends or patterns in complex datasets
+	-Filtered and â€œcleanedâ€ data by reviewing computer reports, printouts, and performance indicators to find and correct code problems
+	-Prepared data for ML codes, exactly with ENT, GPA,Grade and Absence_count datasets
+ 	-And design data visualization on Power BI
+
+Kamar Begaiym: Python visual in PowerBI, ML, Correlations, Predictions
+	-Made correlation between ENT and GPA
+	-Predicted GPA using ENT
+	-Made correlation between similar courses
+	-Predicted final grade using similar courses
+	-Tested regression and classification methods to predict final grade
+	-Predicted final exam score using previous year results
